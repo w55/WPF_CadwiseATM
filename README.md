@@ -24,7 +24,13 @@ XAML:
 </ul>
 
 <hr>
-Here are some screenshjots of ATM windows that display for user:
+Here are some screenshjots of ATM screens that displayed for user:
+<br>
+Help system for ATM emulator:
+<br>
+<img width="600" src="Screenshots/HelpSystem.png" alt="help system" />
+<br>
+Some screens that user can see^
 <br>
 <img width="600" src="Screenshots/Screen0.png" alt="hello screen" />
 <img width="600" src="Screenshots/Screen1.png" alt="select action screen" />
